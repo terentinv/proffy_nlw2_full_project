@@ -33,7 +33,7 @@
 
 <p align="center">Web</p>
 <p align="center">
-   <img src="https://avatars2.githubusercontent.com/u/39659266?s=460&u=800ce98239d642f570564bbf0e15c77787b85012&v=4" width="400px">
+   <img src="" width="400px">
    <img src="" width="400px">
 </p>
 
