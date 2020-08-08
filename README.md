@@ -37,7 +37,6 @@
    
 </p>
 
-<img src ="https://lh4.googleusercontent.com/Y-tqXIagec1EJTOn2365LMN_8Ox9RaI4Sqsw7qXpzW95_YVMHwuT3ABm5L8WwLlKuf5noF9K6xcnTBImGHLh=w1960-h1298-rw" width="100%"/>
 
 <p align="center">Mobile</p>
 <p align="center">
