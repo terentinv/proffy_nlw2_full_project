@@ -106,17 +106,26 @@ $ yarn start
 ```
 Aplicação rodando no endereço: http://localhost:3000/ 
 
-### :iphone: Rode a versão WEB
+### :iphone: Rode a versão Mobile
 
 ```bash
 # Acesse a pasta web
-$ cd /web/
+$ cd /mobile/
 # Instale as depedencias
 $ yarn install
+$ yarn add global expo-cli
 # Inicie a aplicação
 $ yarn start
+# Acesse a pasta src/services/api.tsx
+$ Altere o IP para o seu LAN do expo e mantenha a porta :3333
+
 ```
-Aplicação rodando no endereço: http://localhost:3000/ 
+App mobile rodando na opção LAN do Expo.
+
+Qualquer dúvida você pode seguir o link: 
+https://blog.expo.io/expo-cli-2-0-released-a7a9c250e99c#:~:text=To%20install%20Expo%20CLI%2C%20just,existing%20app%20with%20expo%20start%20.
+
+
 
 
 
