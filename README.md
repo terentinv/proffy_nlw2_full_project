@@ -80,7 +80,7 @@ Utiliza as seguintes tecnologias:
 ```bash
 # Clone o Repositorio
 $ git clone https://github.com/terentinv/proffy_nlw2_full_project.git
-
+```
 
 ### 📦 Rode o Servidor/API
 
