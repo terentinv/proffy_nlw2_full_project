@@ -28,7 +28,7 @@
 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#gear-funcionalidades)
-* [Como rodar](#construction_worker-como-rodar)
+* [Como rodar](#wrench-como-rodar)
 
 
 <p align="center">Web</p>
@@ -73,7 +73,7 @@ Utiliza as seguintes tecnologias:
 
 * Aplicação FullStack para conectar estudantes e professores.
 
-# :construction_worker: Como rodar
+# :wrench: Como rodar
 ```bash
 # Clone o Repositorio
 $ git clone https://github.com/terentinv/proffy_nlw2_full_project.git
