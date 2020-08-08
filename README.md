@@ -121,10 +121,10 @@ $ Altere o IP para o seu LAN do expo e mantenha a porta :3333
 
 ```
 App mobile rodando na opção LAN do Expo.
-<p>
-Qualquer dúvida você pode seguir o link: 
+
+Qualquer dúvida você pode seguir o link: <br/>
 https://blog.expo.io/expo-cli-2-0-released-a7a9c250e99c#:~:text=To%20install%20Expo%20CLI%2C%20just,existing%20app%20with%20expo%20start%20.
-</p>
+
 
 
 
