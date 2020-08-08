@@ -106,7 +106,7 @@ $ yarn start
 ```
 Aplicação rodando no endereço: http://localhost:3000/ 
 
-### :smartphone: Rode a versão WEB
+### :iphone: Rode a versão WEB
 
 ```bash
 # Acesse a pasta web
