@@ -27,7 +27,7 @@
 # Especificações
 
 * [Tecnologias](#computer-tecnologias)
-* [Funcionalidades](#rocket-funcionalidades)
+* [Funcionalidades](#gear-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
 
 
