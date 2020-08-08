@@ -4,7 +4,7 @@
 ------------------------------------------------------------
 
 <p align="center">
-   <img src=".github/logo.png" width="300"/>
+   <img src="https://ibb.co/4sVt806" width="300"/>
 </p>
 
 <p align="center">	
