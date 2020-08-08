@@ -40,10 +40,7 @@
 
 <p align="center">Mobile</p>
 <p align="center">
-   <img src="" width="180">
-   <img src="" width="180">
-   <img src="" width="180">
-   <img src="" width="180">
+   Em breve
 </p>
 
 # :computer: Tecnologias
