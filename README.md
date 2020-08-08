@@ -33,7 +33,7 @@
 
 <p align="center">Web</p>
 <p align="center">
-   <img src="https://media.giphy.com/media/S5nQ0YTAEkjI2bAiZ1/giphy.gif" width="70%">
+   <img src="https://media.giphy.com/media/S5nQ0YTAEkjI2bAiZ1/giphy.gif" width="50%">
    
 </p>
 
