@@ -4,7 +4,7 @@
 ------------------------------------------------------------
 
 <p align="center">
-   <img src="https://ibb.co/4sVt806" width="300"/>
+   <a href="https://rocketseat.com.br/"><img src="https://i.ibb.co/yYHmzQm/2-NLW-02-1400x900.jpg" alt="2-NLW-02-1400x900" border="0"></a>
 </p>
 
 <p align="center">	
