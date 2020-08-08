@@ -123,7 +123,7 @@ $ Altere o IP para o seu LAN do expo e mantenha a porta :3333
 App mobile rodando na opção LAN do Expo.
 
 Qualquer dúvida você pode seguir o link: <br/>
-shorturl.at/ehuHO
+http://shorturl.at/ehuHO
 
 
 
