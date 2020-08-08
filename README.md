@@ -72,7 +72,7 @@ Utiliza as seguintes tecnologias:
   <li>Axios</li>
 </ul>
 
-# :rocket: Funcionalidades
+# :gear: Funcionalidades
 
 * Aplicação FullStack para conectar estudantes e professores.
 
