@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">	
-   <a href="">
+   <a href="https://avatars2.githubusercontent.com/u/39659266?s=400&u=800ce98239d642f570564bbf0e15c77787b85012&v=4">
       <img alt="Vinicius Terentin" src="https://img.shields.io/badge/-ViniciusTerentin-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
