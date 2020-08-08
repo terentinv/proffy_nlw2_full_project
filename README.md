@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">	
-   <a href="">
+   <a href="https://www.linkedin.com/in/vinicius-terentin/">
       <img alt="Vinicius Terentin" src="https://img.shields.io/badge/-ViniciusTerentin-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
