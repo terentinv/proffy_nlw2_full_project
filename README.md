@@ -26,9 +26,9 @@
 
 # Especificações
 
-**[Tecnologias](#computer-tecnologias)  |
-**[Funcionalidades](#gear-funcionalidades)  |
-**[Como rodar](#wrench-como-rodar)
+** [Tecnologias](#computer-tecnologias)  |
+** [Funcionalidades](#gear-funcionalidades)  |
+** [Como rodar](#wrench-como-rodar)
 
 
 <p align="center">Web</p>
