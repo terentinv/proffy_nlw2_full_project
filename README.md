@@ -79,7 +79,7 @@ Utiliza as seguintes tecnologias:
 $ git clone https://github.com/terentinv/proffy_nlw2_full_project.git
 ```
 
-<ul display="inline">
+<ul display="flex">
   <li><a href="#">Web <a/></li>
   <li><a href="#">Server <a/></li>
   <li><a href="#">Mobile <a/></li>
