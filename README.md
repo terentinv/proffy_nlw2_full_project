@@ -79,52 +79,11 @@ Utiliza as seguintes tecnologias:
 $ git clone https://github.com/terentinv/proffy_nlw2_full_project.git
 ```
 
-### 📦 Rode o Servidor/API
-
-
-```bash
-# Acesse a pasta do servidor
-$ cd /server/
-# Instale as depedencias
-$ yarn install
-# Rode as migrations para gerar o arquivo database.sqlite e as tabelas no banco de dados 
-$ yarn knex:migrate
-# Inicie o servidor
-$ yarn start
-```
-API rodando no endereço: http://localhost:3333/
-
-### 💻 Rode a versão WEB
-
-```bash
-# Acesse a pasta web
-$ cd /web/
-# Instale as depedencias
-$ yarn install
-# Inicie a aplicação
-$ yarn start
-```
-Aplicação rodando no endereço: http://localhost:3000/ 
-
-### :iphone: Rode a versão Mobile
-
-```bash
-# Acesse a pasta web
-$ cd /mobile/
-# Instale as depedencias
-$ yarn install
-$ yarn add global expo-cli
-# Inicie a aplicação
-$ yarn start
-# Acesse a pasta src/services/api.tsx
-$ Altere o IP para o seu LAN do expo e mantenha a porta :3333
-
-```
-App mobile rodando na opção LAN do Expo.
-
-Qualquer dúvida você pode seguir o link: <br/>
-http://shorturl.at/ehuHO
-
+<ul display="inline-block">
+  <li><a href="#">Web <a/></li>
+  <li><a href="#">Server <a/></li>
+  <li><a href="#">Mobile <a/></li>
+</ul>
 
 
 
