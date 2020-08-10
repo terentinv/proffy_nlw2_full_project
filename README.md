@@ -79,12 +79,9 @@ Utiliza as seguintes tecnologias:
 $ git clone https://github.com/terentinv/proffy_nlw2_full_project.git
 ```
 
-<ul display="flex">
-  <li><a href="#">Web <a/></li>
-  <li><a href="#">Server <a/></li>
-  <li><a href="#">Mobile <a/></li>
-</ul>
-
+💻 **Acesse o Front-end [aqui](https://github.com/terentinv/proffy_nlw2_full_project/tree/master/aulas/web)** | 
+🖥 **Acesse o Back-end [aqui](https://github.com/terentinv/proffy_nlw2_full_project/tree/master/aulas/server)** | 
+📱 **Acesse o Mobile [aqui](https://github.com/terentinv/proffy_nlw2_full_project/tree/master/aulas/mobile)** |
 
 
 
