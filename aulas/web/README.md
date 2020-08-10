@@ -10,4 +10,4 @@ $ yarn start
 ```
 Aplicação rodando no endereço: http://localhost:3000/ 
 
-<a href="#">Voltar<a/>
+<a href="https://github.com/terentinv/proffy_nlw2_full_project">Voltar<a/>
