@@ -25,11 +25,13 @@
 
 
 # Especificações
-
+<div align="center">
+   
 💻 **Verifique as [Tecnologias](#computer-tecnologias)**  |
 ⚙️ **Verifique as [Funcionalidades](#gear-funcionalidades)**  |
 🔧 **Saiba [Como rodar](#wrench-como-rodar)**
-
+   
+</div>
 
 <p align="center">Web</p>
 <p align="center">
