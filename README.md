@@ -35,7 +35,7 @@
 
 <p align="center">Web</p>
 <p align="center">
-   <img src="https://lh6.googleusercontent.com/u3AbyV3YeOTSyI7bw-mT2-KZZqTia-rNLt9zingnCcznqPUfnZ94Ie9J7DaGuNhPJSBOrDVPLsbBNdfFM8gV=w1680-h945-rw" width="100%">
+   <img src="https://github.com/terentinv/proffy_nlw2_full_project/blob/master/proffy-2.gif" width="100%">
    
 </p>
 
