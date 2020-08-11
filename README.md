@@ -33,14 +33,14 @@
    
 </div>
 
-<p align="center">Web</p>
+<p align="center">Prévia Web</p>
 <p align="center">
    <img src="https://github.com/terentinv/proffy_nlw2_full_project/blob/master/proffy-2.gif" width="100%">
    
 </p>
 
 
-<p align="center">Mobile</p>
+<p align="center">Prévia Mobile</p>
 <p align="center">
    Em breve
 </p>
