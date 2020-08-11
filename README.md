@@ -35,7 +35,7 @@
 
 <p align="center">Web</p>
 <p align="center">
-   <img src="https://media.giphy.com/media/S5nQ0YTAEkjI2bAiZ1/giphy.gif" width="50%">
+   <img src="https://lh6.googleusercontent.com/u3AbyV3YeOTSyI7bw-mT2-KZZqTia-rNLt9zingnCcznqPUfnZ94Ie9J7DaGuNhPJSBOrDVPLsbBNdfFM8gV=w1680-h945-rw" width="100%">
    
 </p>
 
